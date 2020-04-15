@@ -1,2 +1,2 @@
 # slackware-linux
-Simple tips to install Slackware as a main SO
+In this repo, we are gonna try to provide a handful of commands to set up our Slackware environment.
