@@ -2,6 +2,7 @@
 In this repo, we are gonna try to provide a handful of commands to set up our Slackware environment.
 
 
+#### Post Installation
 useradd -d /home/rodrix -c "rodrix" -m -s /bin/bash rodrix
 
 passwd rodrix
